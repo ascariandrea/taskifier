@@ -1,0 +1,12 @@
+{
+  "name": "taskifier",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx tsx src/index.ts"
+  },
+  "dependencies": {
+    "fp-ts": "^2.16.5"
+  }
+}
